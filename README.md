@@ -44,7 +44,6 @@ Hi, I’m **[Your Name]** – an aspiring **Data Analyst** passionate about unco
 ### 🔹 Current Focus
 
 * Sharpening SQL and Python skills for analytics
-* Exploring modern data stack tools (Snowflake, dbt, Airflow)
 * Working on portfolio projects to demonstrate end-to-end analysis
 
 ### 🔹 Beyond Work
